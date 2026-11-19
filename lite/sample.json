@@ -1,0 +1,80 @@
+[
+ {
+  "marketplace": "Amazon (Professional)",
+  "model": "1P/3P marketplace",
+  "category_scope": "Most categories (referral varies 8-15%; some 45%+ on device accessories)",
+  "referral_fee_pct": "8-15% typical (category-dependent)",
+  "listing_or_subscription": "$39.99/mo professional seller plan",
+  "payment_processing": "No separate processing fee (included in referral)",
+  "fulfilment_fees": "FBA: pick&pack + storage + optional prep (per-unit, size-tiered)",
+  "ad_cost_model": "Sponsored Products (CPC bids)",
+  "notes": "Largest reach; referral + FBA drive real all-in cost",
+  "official_fees_url": "https://sell.amazon.com/pricing",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "marketplace": "Amazon (Individual)",
+  "model": "1P/3P marketplace",
+  "category_scope": "Per-item selling",
+  "referral_fee_pct": "8-15% typical",
+  "listing_or_subscription": "$0.99 per item sold",
+  "payment_processing": "Included",
+  "fulfilment_fees": "FBA optional (per-unit)",
+  "ad_cost_model": "Sponsored Products (CPC)",
+  "notes": "No monthly fee; per-item fee eats thin margins",
+  "official_fees_url": "https://sell.amazon.com/pricing",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "marketplace": "eBay",
+  "model": "C2C/B2C marketplace",
+  "category_scope": "Most categories (final value fee varies)",
+  "referral_fee_pct": "~13.6% typical for most categories (up to ~15% w/ fees)",
+  "listing_or_subscription": "Free up to 250 fixed-price listings/mo (then insertion fees)",
+  "payment_processing": "Included in final value fee",
+  "fulfilment_fees": "No first-party fulfilment; seller ships",
+  "ad_cost_model": "Promoted Listings (ad rate %)",
+  "notes": "Auction + fixed price; store subscription reduces fees",
+  "official_fees_url": "https://www.ebay.com/help/selling/fees-credits-invoices/store-selling-fees",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "marketplace": "Walmart Marketplace",
+  "model": "3P marketplace",
+  "category_scope": "Most categories",
+  "referral_fee_pct": "~6-15% (category referral)",
+  "listing_or_subscription": "Free to list",
+  "payment_processing": "Included",
+  "fulfilment_fees": "WFS optional (per-unit + storage)",
+  "ad_cost_model": "Sponsored Products (CPC)",
+  "notes": "No monthly fee; WFS optional; strict approval",
+  "official_fees_url": "https://marketplace.walmart.com/pricing/",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "marketplace": "Etsy",
+  "model": "Handmade/creative marketplace",
+  "category_scope": "Handmade, vintage, craft supplies",
+  "referral_fee_pct": "6.5% transaction fee",
+  "listing_or_subscription": "$0.20 per listing (renews every 4 months)",
+  "payment_processing": "Payment processing ~3% + $0.25",
+  "fulfilment_fees": "No first-party fulfilment",
+  "ad_cost_model": "Etsy Ads (CPC/CPM)",
+  "notes": "Offsite Ads fee 12-15% on attributed sales",
+  "official_fees_url": "https://www.etsy.com/legal/fees/",
+  "status_stamp": "compiled 2026-11"
+ },
+ {
+  "marketplace": "Shopify (own store)",
+  "model": "D2C storefront platform",
+  "category_scope": "Any (you own the store)",
+  "referral_fee_pct": "0% marketplace referral (you own the store)",
+  "listing_or_subscription": "From $29/mo (Basic) to $299/mo (Advanced)",
+  "payment_processing": "Shopify Payments 2.9%+30¢ (Basic) or third-party gateway 2% extra",
+  "fulfilment_fees": "No first-party (use 3PL)",
+  "ad_cost_model": "Shopify Ads / external",
+  "notes": "You control the customer; app + gateway fees add up",
+  "official_fees_url": "https://www.shopify.com/pricing",
+  "status_stamp": "compiled 2026-11"
+ }
+]
